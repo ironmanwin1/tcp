@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/G/tcp/build/CMakeFiles/bootloader
+D:/G/tcp/build/CMakeFiles/bootloader.rule
+D:/G/tcp/build/CMakeFiles/bootloader-complete.rule
+D:/G/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/G/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/G/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/G/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/G/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/G/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/G/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
